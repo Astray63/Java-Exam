@@ -1,4 +1,4 @@
-# Electricity Business
+# Electricity Business - Elijah LASSERRE
 
 Application de gestion de bornes de recharge électrique.
 
